@@ -1,8 +1,6 @@
 # Here should be the `Person` class
 class Person
 
-    attr_accessor 
-
     def initialize(title, last_name, first_name, email)
       @title = title
       @last_name = last_name
